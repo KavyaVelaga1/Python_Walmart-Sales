@@ -31,10 +31,10 @@ Download the raw file directly from this repository by clicking on the file name
 
 ## Technologies Used
 
-- **Python** or **R** (depending on your implementation)
+- **Python** (depending on your implementation)
 - **pandas**, **numpy**, **matplotlib**, **seaborn** (for data manipulation and visualization)
 - **scikit-learn** (for building the regression model)
-- **Jupyter Notebook** (optional, for easy execution and visualization)
+- **Jupyter Notebook** (For easy execution and visualization)
 
 ## Conclusion
 
