@@ -26,7 +26,7 @@ The model uses **Multiple Linear Regression** and includes the necessary steps f
 
 ## How to View the Code
 
-To view the project, code and analysis, you can download the raw files and open them on your local machine.
+To view the project, code and analysis, you can download the raw files and open them on your local machine as it is in HTML format.
 Download the raw file directly from this repository by clicking on the file name **Capstone_Project.html** and selecting **"Download the raw file**".
 
 ## Technologies Used
